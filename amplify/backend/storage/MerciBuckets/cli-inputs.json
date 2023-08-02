@@ -1,0 +1,14 @@
+{
+  "resourceName": "MerciBuckets",
+  "policyUUID": "6f7d7d6a",
+  "bucketName": "amplifyreactgraphqlfc037820d2fc4c7abd3ab65aa336",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
